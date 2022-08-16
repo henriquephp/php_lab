@@ -1,3 +1,2 @@
-# php_lab
-mudar permissao linux
+Mudar permissao Linux
 sudo chmod 777 -R.
