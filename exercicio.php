@@ -27,3 +27,10 @@ for ($numero = 3; $numero < $limite; $numero++) {
 }
 
 echo implode(",", $primos);
+
+$numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; //30
+// MDC Maximo Divisor Comun
+// 15 10 - 5
+
+
+
