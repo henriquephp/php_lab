@@ -40,10 +40,10 @@ for ($numero = 0; $numero < $limite; $numero++) {
     $contDiv 0;
 
     echo // "numero: " .$numero . "<br>";
+
     
 }
 
-}
    
 
 
