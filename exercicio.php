@@ -34,17 +34,10 @@ $numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]; //30
 
 $contDiv = 0; //
 
-$limite 12
+$limite = 12;
 
 for ($numero = 0; $numero < $limite; $numero++) {
-    $contDiv 0;
+    $contDiv = 0;
 
-    echo // "numero: " .$numero . "<br>";
-
-    
+    echo // "numero: " >$numero . "<br>; 
 }
-
-   
-
-
-
