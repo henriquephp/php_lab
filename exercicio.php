@@ -41,3 +41,6 @@ for ($numero = 0; $numero < $limite; $numero++) {
 
     echo // "numero: " >$numero . "<br>; 
 }
+
+
+test.
